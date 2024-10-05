@@ -13,6 +13,19 @@
 
 
 -----------------------
+
+# HOMEWORK 2
+# This homework is in JAVA, SWIFT, AND KOTLIN
+## I ALSO calimed a point during lecutre and professor asked me to type somewhere in the HW.
+## I have replaced all the instances of "change" to "exercises.change" and did this
+## to all the functions that are defined in the exercises module.
+## all the functions are defined in the exercises have to reachable through the var exercises.
+## I have also replaced all the instances of "first_than_lower_case" to "exercises.first
+## FOR THIS HW WE DID A BINARY SEARCH TREES, AND THIS IS MY FIRST TIME DOING THOSE IN JAVA, SWIFT, AND KOTLIN
+## IN THIS HW I HAVE CODED IN SWIFT AND KOTLION FOR THE FIRST TIME.
+
+
+-------------------------
 ### Lua
 
 ```
