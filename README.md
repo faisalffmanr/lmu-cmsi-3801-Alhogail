@@ -26,6 +26,19 @@
 
 
 -------------------------
+
+# HOMEWORK 3
+# this homework is in Ocaml, Haskell, Typescript
+## I calimed a point during lecutre and professor asked me to type somewhere in the HW(for arrays in haskell :)
+## Ocaml was totally new to me, It was interesting 
+
+
+
+
+
+
+
+---------------------------
 ### Lua
 
 ```
