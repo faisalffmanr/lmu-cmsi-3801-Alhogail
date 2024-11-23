@@ -1,20 +1,33 @@
 pub struct Stack<T> {
-    // stack items are private by default
     items: Vec<T>,
 }
 
 impl<T> Stack<T> {
-    // Implement new
 
-    // Implement push
+    pub fn new() -> Self {
+        Stack { items: Vec::new() }
+    }
 
-    // Implement pop
 
-    // Implement peek
+    pub fn push(&mut self, item: T) {
+        self.items.push(item);
+    }
 
-    // Implement is_empty
+    pub fn pop(&mut self) -> Option<T> {
+        self.items.pop()
+    }
 
-    // Implement len
+    pub fn peek(&self) -> Option<&T> {
+        self.items.last()
+    }
+
+    pub fn is_empty(&self) -> bool {
+        self.items.is_empty()
+    }
+
+    pub fn len(&self) -> usize {
+        self.items.len()
+    }
 }
 
 #[cfg(test)]
@@ -58,7 +71,7 @@ mod tests {
     fn test_stacks_cannot_be_cloned_or_copied() {
         let stack1: Stack<i32> = Stack::new();
         let _stack2: Stack<i32> = stack1;
-        // Should get a compile error if next line uncommented
-        // let _stack3: Stack<i32> = stack1; // Error: `stack1` has been moved
+        // Uncommenting the next line should give a compile error
+        // let _stack3: Stack<i32> = stack1;
     }
 }

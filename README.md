@@ -35,7 +35,9 @@
 
 
 
-
+# HOMEWORK 4
+# this homework is in C, C++, Rust
+# I'm pretty fimilar with C++ and Rust is new to me. 
 
 
 ---------------------------
