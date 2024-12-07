@@ -33,11 +33,18 @@
 ## Ocaml was totally new to me, It was interesting 
 
 
-
+---------------------------
 
 # HOMEWORK 4
 # this homework is in C, C++, Rust
 # I'm pretty fimilar with C++ and Rust is new to me. 
+
+---------------------------
+
+
+# HOMEWORK 5 
+# THIS HW IS IN GO LANGUAGE
+# I TRULY LOVE THIS LANGUAGE AND IT'S NEW TO ME. 
 
 
 ---------------------------
